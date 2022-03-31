@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <androidx.constraintlayout.utils.widget.ImageFilterView
+                android:id="@+id/ranking_medal"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/ic_goldmedal_1x" />
+
+            <TextView
+                android:id="@+id/ranking_numbering"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="13dp"
+                android:text="1"
+                android:textColor="@color/black"
+                android:textSize="14dp"
+                android:textStyle="bold" />
+
+<!--            <androidx.constraintlayout.utils.widget.ImageFilterView-->
+<!--                android:id="@+id/ranking_updown"-->
+<!--                android:layout_marginTop="10dp"-->
+<!--                android:layout_width="8dp"-->
+<!--                android:layout_height="8dp"-->
+<!--                android:src="@drawable/rankup" />-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/ranking_diff"-->
+<!--                android:layout_width="20dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginLeft="7dp"-->
+<!--                android:text="3"-->
+<!--                android:textSize="12dp"-->
+<!--                android:textStyle="bold" />-->
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/ranking_name"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content"
+            android:text="깡깡이"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/ranking_score"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:text="70"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+</LinearLayout>

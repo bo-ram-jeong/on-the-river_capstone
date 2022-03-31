@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:gravity="center"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:src="@mipmap/ic_info" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:text="운동이 종료되었습니다!"
+        android:textSize="15dp"
+        android:textColor="@color/black"/>
+
+
+        <Button
+            android:id="@+id/btn_yes"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:text="종료"
+            android:textColor="#ffffff"
+            android:textSize="15dp"
+            android:textAlignment="center"
+            android:background="@color/main"/>
+
+</LinearLayout>

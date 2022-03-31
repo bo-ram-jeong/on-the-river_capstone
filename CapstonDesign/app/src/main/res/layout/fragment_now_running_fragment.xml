@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".now_running_fragment"
+    android:layout_marginBottom="5dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:background="@color/white"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        >
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/speedMeter"
+            android:gravity="center_horizontal"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:src="@drawable/ic_speed1"
+            android:id="@+id/runningman"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            />
+
+            <TextView
+                android:id="@+id/currentSpeed"
+                android:layout_width="wrap_content"
+                android:layout_height="37dp"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="8dp"
+                android:text="0.0"
+                android:textColor="@color/gray02"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/currentSpeed2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:text="m/s"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/gray02"
+            />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/setTimer"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="0:00:00"
+            android:textStyle="bold"
+            android:textSize="45dp"
+            android:textColor="@color/black"
+            app:layout_constraintTop_toBottomOf="@id/speedMeter"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+
+            />
+
+        <ImageButton
+            android:id="@+id/runningPause_Btn"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:src="@drawable/ic_baseline_pause_24"
+            android:scaleType="centerCrop"
+            android:layout_marginTop="10dp"
+            android:padding="10dp"
+            app:layout_constraintTop_toBottomOf="@id/setTimer"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            android:background="@drawable/radius_circle"
+            />
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/runningStop_Btn"
+            android:layout_width="175dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/radius"
+            android:text="운동 종료"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            app:layout_constraintTop_toBottomOf="@id/runningPause_Btn"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"/>
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

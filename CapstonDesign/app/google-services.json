@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "255292172688",
+    "project_id": "ontheriver-ccbdd",
+    "storage_bucket": "ontheriver-ccbdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255292172688:android:628639d16a1b7b0dee6b15",
+        "android_client_info": {
+          "package_name": "com.example.CapstonDesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255292172688-s9io86ege3m21mm6imepqdhfq884gg8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTLLU6WkUiKAEjI7hsW4FeDjBN_BaBouU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255292172688-s9io86ege3m21mm6imepqdhfq884gg8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "255292172688-664fkqh2i6pbt6t1tuvm8ropmojj880n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "daesang.HealthyRiveriOS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

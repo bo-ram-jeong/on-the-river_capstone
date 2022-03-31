@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ThinkPad E15/Downloads/HealthyRiver/CapstonDesign/app/src/main/res/layout/finish_layout.xml" value="0.8092105263157895" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/drawable-anydpi/spinner_custom.xml" value="0.290625" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/drawable-v24/btn_style_mypage.xml" value="1.5535714285714286" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/drawable-v24/btn_style_mypage2.xml" value="1.5535714285714286" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/drawable-v24/finish_spinner.xml" value="0.290625" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/drawable-v24/ic_baseline_horizontal_rule_24.xml" value="0.290625" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/drawable-v24/rounded.xml" value="0.290625" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/drawable/border_layout.xml" value="1.4678571428571427" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/drawable/border_layout2.xml" value="0.290625" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/drawable/border_layout3.xml" value="0.290625" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.290625" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/drawable/splash.xml" value="1.55" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/activity_ar.xml" value="0.27447916666666666" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/activity_ar2.xml" value="0.27447916666666666" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/activity_main.xml" value="0.21062618595825428" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/activity_map.xml" value="0.2" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/activity_route.xml" value="0.27447916666666666" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/ar_ranking.xml" value="0.264" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/argame_list_item.xml" value="0.4" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/arspot_list_item.xml" value="0.27447916666666666" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/badge_fragment_first.xml" value="0.223731884057971" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/badge_fragment_third.xml" value="0.6924342105263158" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/badgedialog.xml" value="0.27447916666666666" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/bottomsheetlist_layout.xml" value="0.72" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/btn_style_mypage.xml" value="0.7713815789473685" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/dialog.xml" value="0.27447916666666666" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/dialog_custom_badge_50.xml" value="0.26766304347826086" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/dialog_custom_badge__success_50.xml" value="0.264" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/dialog_custom_badge_info_50.xml" value="0.264" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/dialog_custom_info.xml" value="0.223731884057971" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/dialog_custom_logout.xml" value="0.223731884057971" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/dialog_custom_nickname.xml" value="0.223731884057971" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/dialog_custom_pw.xml" value="0.4" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/dialog_custom_secession.xml" value="0.223731884057971" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/finish_layout.xml" value="0.223731884057971" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/fragment_badge.xml" value="0.27447916666666666" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/fragment_badge1.xml" value="0.27447916666666666" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/fragment_badge2.xml" value="0.27447916666666666" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/fragment_join__info.xml" value="0.2296195652173913" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/fragment_join_membership.xml" value="0.2296195652173913" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/fragment_login_activity.xml" value="0.27447916666666666" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/fragment_reset_pw.xml" value="0.27447916666666666" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/fragment_select_marker_tab.xml" value="0.27447916666666666" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/fragment_weather.xml" value="0.223731884057971" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/myactivity.xml" value="0.4" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/mybadge.xml" value="0.176" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/mycalendar.xml" value="0.264" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/myinfo_update.xml" value="0.27447916666666666" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/mypage.xml" value="0.264" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/nickname_update.xml" value="0.2869791666666667" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/pw_update.xml" value="0.2" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/setting.xml" value="0.264" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/spinner_custom.xml" value="0.27447916666666666" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/layout/spinner_item_spot.xml" value="0.264" />
+        <entry key="..\:/git/OnTheRiver/CapstonDesign/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.17592592592592593" />
+        <entry key="app/src/main/res/drawable-anydpi/home.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable-anydpi/spinner_custom.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable-v24/btn_style_mypage.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable-v24/btn_style_mypage2.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable-v24/finish_spinner.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_horizontal_rule_24.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable-v24/radius.xml" value="0.22719298245614036" />
+        <entry key="app/src/main/res/drawable-v24/rounded.xml" value="0.22719298245614036" />
+        <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable/ic_baseline_more_horiz_24_black.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable/ic_baseline_more_horiz_24_white.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable/ic_ind_blu.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable/ic_ind_gray.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable/ic_indicator.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable/radius_circle.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable/radius_circle_black.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable/radiusgray.xml" value="0.22719298245614036" />
+        <entry key="app/src/main/res/drawable/select_marker.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable/shape_blu.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable/shape_weather.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/drawable/spinner_textitem.xml" value="0.306140350877193" />
+        <entry key="app/src/main/res/drawable/splash.xml" value="0.35350877192982455" />
+        <entry key="app/src/main/res/layout/activity_ar.xml" value="0.3267543859649123" />
+        <entry key="app/src/main/res/layout/activity_ar2.xml" value="0.3267543859649123" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2482456140350877" />
+        <entry key="app/src/main/res/layout/activity_map.xml" value="0.3267543859649123" />
+        <entry key="app/src/main/res/layout/activity_route.xml" value="0.2530701754385965" />
+        <entry key="app/src/main/res/layout/ar_ranking.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/argame_list_item.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/arspot_list_item.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/badgedialog.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/bottomsheetlist_layout.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/dialog.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/dialog_ar_confirm.xml" value="0.6576226113993129" />
+        <entry key="app/src/main/res/layout/dialog_custom_info.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/dialog_custom_logout.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/dialog_custom_nickname.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/dialog_custom_pw.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/dialog_custom_secession.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/dialog_obtained_badge_list.xml" value="0.175" />
+        <entry key="app/src/main/res/layout/finish_layout.xml" value="0.2425438596491228" />
+        <entry key="app/src/main/res/layout/fragement_reset_pw2.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/fragment_badge1.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/fragment_badge2.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/fragment_finish_dialog.xml" value="0.17675438596491228" />
+        <entry key="app/src/main/res/layout/fragment_join__info.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_join_membership.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/fragment_login_activity.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_now_running_fragment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_reset_pw.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/fragment_reset_pw2.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/fragment_select_marker_tab.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/fragment_weather.xml" value="0.25570175438596493" />
+        <entry key="app/src/main/res/layout/item_obtained_badge.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/modal_bottom_sheet.xml" value="0.17675438596491228" />
+        <entry key="app/src/main/res/layout/myactivity.xml" value="0.457162440027416" />
+        <entry key="app/src/main/res/layout/mybadge.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/myinfo_update.xml" value="0.25394736842105264" />
+        <entry key="app/src/main/res/layout/mypage.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/nickname_update.xml" value="0.25219298245614036" />
+        <entry key="app/src/main/res/layout/pw_update.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/select_tab_item.xml" value="0.25219298245614036" />
+        <entry key="app/src/main/res/layout/setting.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/spinner_item_spot.xml" value="0.29254385964912283" />
+        <entry key="app/src/main/res/layout/spinner_textitem.xml" value="0.29254385964912283" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
