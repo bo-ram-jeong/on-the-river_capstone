@@ -7,10 +7,13 @@
 
 ## Table of Contents
 1. [About The Project](#about-the-project)
+    - [Flow Chart](#flow-chart)
+    - [Demo](#demo)
     - [Built With](#built-with)
 2. [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
     - [Installation](#installation)
+    - [SetUp](#setup)
+    - [etc](#etc)
 3. [Contact](#contact)
 4. [Acknowledgments](#acknowledgments)
 
@@ -20,7 +23,7 @@
 <img src="https://user-images.githubusercontent.com/84834172/183121508-5a3e4abf-1da3-4cc3-8dff-7c05ce68c5cf.png" alt="온더리버 앱 화면2" />
 <img src="https://user-images.githubusercontent.com/84834172/183122645-29f592b0-8f3f-4ae1-beb5-08d9cd18de83.png" alt="온더리버 앱 화면3" />
 
-> <a href="https://cafe.naver.com/mjcs337">명지전문대 캡스톤 경진대회</a>에서 총 5명의 팀원구성으로 진행한 프로젝트로 [AR 게임을 이용한 running App] 을 개발하였습니다.
+> <a href="https://cafe.naver.com/mjcs337">명지전문대 캡스톤 경진대회</a>에서 총 5명의 팀원구성으로 진행한 [AR 게임을 이용한 running App] 프로젝트입니다.
 
 [기획 배경]
 - 코로나19로 인해 개방된 공간인 한강을 운동 장소로 찾는 사람들 증가
@@ -31,6 +34,11 @@
 - 운동에 관심이 없던 사람들을 유입, 이후 지속적인 참여를 유도함으로써 운동 활동을 촉진
 - 서울이라는 도시의 매력 중 하나인 한강에 대한 적극적 활용
 
+[기대 효과]
+- AR을 통한 운동에 대한 재미 유발 요소 →  사용자에게 운동에 대한 흥미 / 부담 없는 시작 가능 
+- 성취감을 얻을 수 있는 수집 요소 → 지속적 운동 참여율 증가
+- 한강 방문 확대 / 운동공간으로써 활용도 증가
+
 [기능]
 - tracking 앱의 기본 기능들 (GPS, 경로 추적, 기록 측정 등) 제공
 - ‘여의도 한강 시민공원’ 기준,  일정 지점 혹은 장소마다 AR 활용 미션 제공
@@ -39,14 +47,22 @@
 - 개인 운동데이터 / 미션데이터를 통해 각 항목에 대한 일정 수준 도달 시 배지 수여
 - 사용자의 기록이나 배지 공유 가능(SNS)
 
-[내가 개발한 부분]
-  - logo design
-  - splash screen
-  - [My Page] 나의 활동
-  - [My Page] 나의 배지
-  - [My Page] AR 순위
-  - [My Page] 설정
+[팀원 별 업무분담]
+ 
+ ![image](https://user-images.githubusercontent.com/84834172/183263577-4f531d50-2ab2-4fc1-9886-0d3765d7933c.png)
 	
+### Flow Chart
+[(back to top)](#table-of-contents)<br/>
+<img src="https://user-images.githubusercontent.com/84834172/183263689-1e25ea38-1194-4554-b6b1-caf6d6f35526.png" alt="flow chart - user" width="70%"/>
+<img src="https://user-images.githubusercontent.com/84834172/183263781-f37da000-f3b9-4e45-86a5-a789df789f0a.png" alt="flow chart - client login" width="70%"/>
+
+### Demo
+[(back to top)](#table-of-contents)<br/>
+
+https://user-images.githubusercontent.com/84834172/183265132-126cc2aa-b89c-4cf6-b538-19298a502df5.mp4
+
+https://user-images.githubusercontent.com/84834172/183265134-e767caf6-3d31-4816-9da4-8fa1f8626b47.mp4
+
 ### Built With
 <a href="https://developer.android.com/?hl=ko"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="https://developer.android.com/studio?gclid=CjwKCAjw3K2XBhAzEiwAmmgrApuGSt607re8P5ghbZZFyMB4FnREisCQPJNChxWbvRAU0QCSrQz2GBoCtYUQAvD_BwE&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
@@ -84,10 +100,11 @@ download
 - 대상 기기 dropdown에서 앱을 실행하려는 AVD를 선택
 → AVD run(실행)
 ```
+### etc
+- 위치 기반 서비스를 위한 GPS접근 허용 필요
+- AR 서비스를 위한 카메라 접근 허용 필요
+- AR을 지원하는 Android기기 (Nougat7.0 이상) 필요
 
-## Usage
-[(back to top)](#table-of-contents)<br/>
-### Demo
 
 ## Contact
 [(back to top)](#table-of-contents)<br/>
@@ -98,10 +115,6 @@ download
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bo-ram-jeong.github.io/)](https://bo-ram-jeong.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/boram33377@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boram33377@gmail.com)](mailto:boram33377@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/brj34@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:brj34@naver.com)](mailto:brj34@naver.com)
-
-
-## Complement
-[(back to top)](#table-of-contents)<br/>
 
 ## Acknowledgments
 [(back to top)](#table-of-contents)<br/>
